@@ -27,9 +27,9 @@ cd Flipkart_cookie_load.py
 ```bash
  python Flipkart_cookie_dump.py
 ```
- ##Configuration
+ ## Configuration
  You can modify the script to perform different actions on the Flipkart website by adjusting the relevant code sections.
 
 
- ##License
+ ## License
  This project is licensed under the MIT License - see the LICENSE.md file for details.
