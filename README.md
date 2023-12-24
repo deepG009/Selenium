@@ -14,7 +14,7 @@ pip install selenium
 ## Usage
 Clone this repository: 
 ```bash
-git clone https://github.com/deepghuge/Selenium-CookieLogin.git
+git clone https://github.com/deepghuge/Selenium-Cookie.git
 cd Flipkart_cookie_dump.py
 ```
 (for extracting login cookies)
