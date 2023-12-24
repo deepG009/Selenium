@@ -21,3 +21,5 @@ if __name__ == '__main__':
     time.sleep(25)
     cookies = driver.get_cookies()
     pickle.dump(cookies,open("flipkartcookies3.pkl","wb"))
+
+driver.quit()
