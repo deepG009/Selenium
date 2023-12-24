@@ -7,24 +7,26 @@ This Python script utilizes Selenium in conjunction with undetected_chromedriver
 Make sure you have Python installed on your machine. Install the required dependencies by running:
 
 ```bash
-
 pip install undetected-chromedriver
 pip install selenium
+```
 
 ## Usage
 Clone this repository: 
-
+```bash
 git clone https://github.com/deepghuge/Selenium-CookieLogin.git
-cd Flipkart_cookie_dump.py 
+cd Flipkart_cookie_dump.py
+```
 (for extracting login cookies)
-
+```bash
 cd Flipkart_cookie_load.py
+```
 (for login using extracted cookies, but make sure to make relevant your problem-specific changes in highlighted fields marked in the code)
 
  Run the script:
-
+```bash
  python Flipkart_cookie_dump.py
-
+```
  ##Configuration
  You can modify the script to perform different actions on the Flipkart website by adjusting the relevant code sections.
 
