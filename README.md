@@ -6,7 +6,7 @@ This Python script utilizes Selenium in conjunction with undetected_chromedriver
 
 Make sure you have Python installed on your machine. Install the required dependencies by running:
 
-bash
+```bash
 
 pip install undetected-chromedriver
 pip install selenium
